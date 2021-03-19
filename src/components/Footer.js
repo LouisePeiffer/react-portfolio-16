@@ -6,13 +6,14 @@ export default function Footer() {
             <div className="footer1">
                 <div>
                     <h1>Social Media</h1>
-                    <a href=""><i class="fab fa-facebook-f"></i></a>
-                    <a href=""><i class="fab fa-twitter"></i></a>
-                    <a href=""><i class="fab fa-instagram"></i></a>
-                    <a href=""><i class="fab fa-youtube"></i></a>
+                    <a href=""><i className="fab fa-facebook-f"></i></a>
+                    <a href=""><i className="fab fa-twitter"></i></a>
+                    <a href=""><i className="fab fa-instagram"></i></a>
+                    <a href=""><i className="fab fa-youtube"></i></a>
                 </div>
                 <div>
                     <h1>Envoyez moi un email</h1>
+                    <div> Icones</div>
                 </div>
                 <div>
                     <h1>On s'appelle</h1>
