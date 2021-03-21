@@ -22,6 +22,7 @@ export default function GalerieComp() {
 
         return (
             <main className='main'>
+                <h1>Mes projets</h1>
                 {data.map((el,i) => {
                     return (
                         <div key={i} className='coucou'>
