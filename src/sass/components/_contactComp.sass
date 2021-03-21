@@ -1,0 +1,51 @@
+.divContact
+    display: flex
+    justify-content: center
+    flex-direction: column
+    align-items: center
+    margin-bottom: 50px
+    background-image: url(../../img/plantdesk.jpg)
+    background-size: cover
+    box-shadow: 3px 3px 25px 1px #ccc
+    padding: 5%
+
+    h1
+        font-family: 'BitterRegular'
+    p
+        font-family: 'DancingRegular'
+        font-size: 25px
+        text-shadow: #6e6c6c 1px 0 10px
+    .divInputs
+        display: flex
+        flex-direction: column
+        align-items: center
+        width: 40%
+        input
+            margin-bottom: 20px
+            height: 50px
+            width: 100%
+            border: none
+            border-radius: 4px
+            box-shadow: 3px 3px 15px 1px #9c9c9c
+            padding: 20px
+        textarea
+            width: 100%
+            margin-bottom: 20px
+            border: none
+            border-radius: 2px
+            box-shadow: 3px 3px 15px 1px #9c9c9c
+            padding: 20px
+        button
+            border: none
+            background-color: #385977
+            border-radius: 2px
+            padding: 10px
+            width: 100%
+            box-shadow: 3px 3px 15px 1px #9c9c9c
+            color: #729ace
+            font-family: 'BitterRegular'
+
+@media screen and ( max-width: 985px )
+    .divContact    
+        .divInputs
+            width: 90%

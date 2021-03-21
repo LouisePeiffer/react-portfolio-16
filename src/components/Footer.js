@@ -13,10 +13,11 @@ export default function Footer() {
                 </div>
                 <div>
                     <h1>Envoyez moi un email</h1>
-                    <div> Icones</div>
+                    <a href=""><i class="fas fa-envelope-open-text"></i></a>
                 </div>
                 <div>
                     <h1>On s'appelle</h1>
+                    <a href=""><i class="fas fa-phone-square-alt"></i></a>
                 </div>
             </div>
             <div className="footer2">
