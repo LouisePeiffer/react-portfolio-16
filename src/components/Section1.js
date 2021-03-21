@@ -19,7 +19,7 @@ const Section1 = () => {
                 <h3>Hello, moi c'est Louise</h3>
                 <hr/>
                 <p>
-                    Après avoir fini mes études secondaires, passé un an aux États-Unis puis étudié en Espagne et travaillé au Panama dans le cadre de mon bachelier de Tourisme, je ne savais toujours pas quoi faire. Par du bouche à oreille, j'ai entendu parlé de Molengeek et ai décidé de me lancer dans le code. 
+                    Après avoir fini mes études secondaires, passé un an aux États-Unis puis étudié en Espagne et travaillé au Panama dans le cadre de mon bachelier de Tourisme, je ne savais toujours pas quoi faire. Par du bouche à oreille, j'ai entendu parler de Molengeek et ai décidé de me lancer dans le code. 
                 </p>
             </div>
         </div>

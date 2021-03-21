@@ -8,13 +8,13 @@ export default function Skills1() {
                 <div className="divImgSkills">
                     <div>
                         <img src="img/html.png" alt=""/>
-                    <img src="img/css.png" alt=""/>
-                    <img src="img/js.png" alt=""/>
+                        <img src="img/css.png" alt=""/>
+                        <img src="img/js.png" alt=""/>
                     </div>
                     <div>
                         <img src="img/bash.png" alt=""/>
-                    <img src="img/git.png" alt=""/>
-                    <img src="img/react.png" alt=""/>
+                        <img src="img/git.png" alt=""/>
+                        <img src="img/react.png" alt=""/>
                     </div>
                     
                 </div>
